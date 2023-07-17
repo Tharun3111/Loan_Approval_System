@@ -39,10 +39,10 @@ For this project, we have chosen a classification model to predict loan eligibil
 ## Evaluation Metrics
 The model's performance is assessed using the following evaluation metrics:
 
-Accuracy: Overall classification accuracy of the model.
-Precision: Proportion of true positive predictions over all positive predictions.
-Recall: Proportion of true positive predictions over all actual positive instances.
-F1-Score: Harmonic mean of precision and recall.
+- Accuracy: Overall classification accuracy of the model.
+- Precision: Proportion of true positive predictions over all positive predictions.
+- Recall: Proportion of true positive predictions over all actual positive instances.
+- F1-Score: Harmonic mean of precision and recall.
 
 
 ## Conclusion
