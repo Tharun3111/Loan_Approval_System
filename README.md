@@ -11,7 +11,7 @@ This repository contains code and resources for a machine learning project aimed
 The dataset used for training and testing the predictive model is not included in this repository due to privacy and licensing restrictions. However, the code assumes that the dataset is available in a CSV format with the following features:
 
 - `ApplicantIncome`: Income of the applicant (numeric).
-- `CoapplicantIncome`: Income of the co-applicant (numeric).
+- `CoapplicantIncome`: Income of the co-applicant (numeric).    
 - `LoanAmount`: The loan amount requested (numeric).
 - `LoanTerm`: Term of the loan in months (numeric).
 - `CreditHistory`: Credit history of the applicant (categorical: 0 or 1).
